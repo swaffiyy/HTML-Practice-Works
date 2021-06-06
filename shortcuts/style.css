@@ -1,0 +1,15 @@
+/* plugin - live sass compiler - watch sass - for sass users ( we dont need thirdparty compiler like compass,grunt,gulp like ) for compole sass to css */
+/* sass is css preprocessor - anything in sass it will convert to css -   */
+/* html file link only css file - so we want convet sass to css - newstyle.sass <link rel="" href="style.css" */
+/* sass code - it will not understand by html - so we need convert to css format - function,variable, loop */
+/* .conatainer{
+    h1{
+        color:red;
+    }
+} */
+
+
+/* here also prettier will work - shift+alt+f */
+
+/* plugin - css peek-- if we have one class in html - then control hold and click on underline - we get css class line in style.css */
+
